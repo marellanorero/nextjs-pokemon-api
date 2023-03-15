@@ -4,7 +4,8 @@ import {Card, Grid, Row, Text} from "@nextui-org/react";
 import { useRouter } from 'next/navigations';
 
 interface Props {
-    pokemon: SmallPokemon,
+    pokemon: SmallPokemon
+
 
 }
 
